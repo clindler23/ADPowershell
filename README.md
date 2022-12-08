@@ -4,4 +4,4 @@
 #A CSV file I used was added for convience You can add fields as needed to meet your requirements#
 
 #Enable Smartcard#
-#gets users in specfic OU and requires a smart card at login
+#gets users in specfic OU and requires a smart card at login#
