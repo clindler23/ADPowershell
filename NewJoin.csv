@@ -1,0 +1,17 @@
+SamAccountname,AccountPassword,Path,GivenName,Surname,Name,DisplayName,
+Christian,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Chrsitan,Lindler,Christian Lindler,Clindler
+Antonio,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Antonio,Santiago,Antonio Santiago,Asantiago
+Brendon,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Brendon,Miah,Brendon Miah,Bmiah
+Brian,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Brian,Dawi,Brian Dawi,Bdawi
+ Ian,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Ian,Prescott,Ian Prescott,Iprescott
+Leilani,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Leilani,Marrion,Leilani Marrion,Lmarrion
+Levan,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Levan,Blackwell,Levan Blackwell,Lblackwell
+Lupe,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Lupe,Villarreal,Lupe Villarreal,Lvillarreal
+Neker,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Neker,Faustin,Neker Faustin,Nfaustin
+Philip,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Philip,Cammarata,Philip Cammarata,Pcammarata
+Robert,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Robert,Barnett,Robert Barnett,Rbarnett
+Rocky,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Rocky,Fain,Rocky Fain,Rfain
+Ryane,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Ryane,Smith,Ryane Smith,Rsmith
+Sarvesh,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Sarvesh,Regmi,Sarvesh Regmi,Sregmi
+Shawn,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",Shawn,Souders,Shawn Souders,Ssouders
+RobertT,"Pa55w.rd","OU=STUDENTS,DC=Adatum,DC=COM",RobertT,TaylorR,Robert Taylor,Rtaylor
